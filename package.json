@@ -1,0 +1,22 @@
+{
+  "name": "tutorial_currency_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselvelez/Tutorial_Currency_System.git"
+  },
+  "author": "Jose L. Velez",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/joselvelez/Tutorial_Currency_System/issues"
+  },
+  "homepage": "https://github.com/joselvelez/Tutorial_Currency_System#readme",
+  "dependencies": {
+    "sequelize": "^5.18.1"
+  }
+}
